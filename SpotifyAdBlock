@@ -1,4 +1,11 @@
-# Spotify adblock
+# localhost name resolution is handled within DNS itself. 
+# 127.0.0.1 localhost 
+# ::1 localhost 
+# iero79 HOSTS Blocker 
+# No Pay[in] No Gain 
+# 
+# Block Spotify Servers 
+#
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 ads-fa.spotify.com
